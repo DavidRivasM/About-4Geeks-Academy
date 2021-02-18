@@ -1,0 +1,53 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+    # Profile information
+    first_name: David
+    last_name: Rivas
+    motto: Student
+    avatar: https://avatars2.githubusercontent.com/u/426452?s=96&v=4
+    summary:
+    
+        I started studying engineering but I want to specialize in the world of programming right now.
+        I keep learning every day.
+
+        After finishing the 4Geeks course, I continue with a Python course.
+        
+
+    # Sidebar links
+    email: alonsorivasmora@gmail.com
+    phone: +506 8525 5893
+    github: DavidRivasM
+
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Medium
+
+    interests:
+      - item: Records Manegment
+      - item: TICS
+
+education:
+    - degree: Records Manegment
+      university: UCR
+      time: 2017 - 2020
+
+skills:
+    toolset:
+      - name: Python 
+        level: 48%
+
+      - name: Javascript, React
+        level: 68%
+
+
+      - name: HTML5 & CSS
+        level: 75%
